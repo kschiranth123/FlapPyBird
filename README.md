@@ -1,6 +1,6 @@
 FlapPyBird
 ===============
-
+Chiran edits the game by enhncing speed of game
 A Flappy Bird Clone made using [python-pygame][pygame]
 
 How-to (as tested on MacOS)
